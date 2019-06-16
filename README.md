@@ -21,4 +21,4 @@ Sık sık karşılaşılabilecek olan işlemleri barındıran package.
 [![Website](https://drive.google.com/uc?id=1wR8Ph0FBs36ZJl0Ud-HkS0LZ9b66JBqJ)](https://yemreak.com)
 [![LinkedIn](https://drive.google.com/uc?id=1hvdil0ZHVEzekQ4AYELdnPOqzunKpnzJ)](https://www.linkedin.com/in/yemreak/)
 
-**~ The [MIT License](https://choosealicense.com/licenses/mit/) &copy; Yunus Emre Ak**
+**The [MIT License](https://choosealicense.com/licenses/mit/) &copy; Yunus Emre Ak**
