@@ -6,6 +6,13 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "engines": {
+    "node": ">=8"
+  },
+  "preferGlobal": true,
+  "bin": {
+    "ytools": "bin/ytools"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/yedhrab/YTools.git"
@@ -18,5 +25,8 @@
   "bugs": {
     "url": "https://github.com/yedhrab/YTools/issues"
   },
-  "homepage": "https://github.com/yedhrab/YTools#readme"
+  "homepage": "https://github.com/yedhrab/YTools#readme",
+  "dependencies": {
+    "yargs": "^13.2.4"
+  }
 }

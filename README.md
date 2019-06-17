@@ -7,12 +7,35 @@
 
 ## İçerikler <!-- omit in toc -->
 
-- [Temel Amaç](#temel-ama%C3%A7)
-- [Destek ve İletişim](#destek-ve-i%CC%87leti%C5%9Fim)
+- [Temel Amaç](#Temel-Ama%C3%A7)
+- [Araştırmalar](#Ara%C5%9Ft%C4%B1rmalar)
+  - [Dönüştürücüler](#D%C3%B6n%C3%BC%C5%9Ft%C3%BCr%C3%BCc%C3%BCler)
+  - [PDF araçları](#PDF-ara%C3%A7lar%C4%B1)
+- [Destek ve İletişim](#Destek-ve-%C4%B0leti%C5%9Fim)
 
 ## Temel Amaç
 
 Sık sık karşılaşılabilecek olan işlemleri barındıran package.
+
+- [Npm paketlerini online olarak test etme][Npm Runkit]
+
+## Araştırmalar
+
+### Dönüştürücüler
+
+- [UnoConv Office Döüştürücü](https://www.youtube.com/watch?v=gOyb4VjKeOE)
+- [Word](https://www.npmjs.com/package/word2pdf)
+- [Markdown](https://www.npmjs.com/package/md-to-pdf)
+- [Html5](https://www.npmjs.com/package/html5-to-pdf)
+- [Docx](https://www.npmjs.com/package/docx-pdf)
+
+### PDF araçları
+
+- [PDFViewer](https://www.npmjs.com/package/ng2-pdf-viewer)
+- [pdf-pupetter](https://www.npmjs.com/package/pdf-puppeteer)
+  - `convertHTMLToPDF`
+- [pdf-creator-node](https://www.npmjs.com/package/pdf-creator-node)
+- [pdfkit](https://www.npmjs.com/package/pdfkit)
 
 ## Destek ve İletişim
 
@@ -22,3 +45,5 @@ Sık sık karşılaşılabilecek olan işlemleri barındıran package.
 [![LinkedIn](https://drive.google.com/uc?id=1hvdil0ZHVEzekQ4AYELdnPOqzunKpnzJ)](https://www.linkedin.com/in/yemreak/)
 
 **The [MIT License](https://choosealicense.com/licenses/mit/) &copy; Yunus Emre Ak**
+
+[Npm Runkit]: https://npm.runkit.com/pdfkit
